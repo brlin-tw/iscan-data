@@ -1,0 +1,6 @@
+# Ignore files automatically generated in the software build configure
+# stage
+/config.log
+/config.status
+Makefile
+/policy/make-policy-file
